@@ -1,0 +1,32 @@
+.dwnld-btn{
+    background-color: #427fab;
+    border-color: #427fbe;
+}
+.my-background{
+    background-image: url(../images/bg.jpg);
+}
+#navigation{
+    opacity: 1 !important;
+}
+#counter, #navigation a{
+    color:#2f4f4f !important;
+    font-weight: bold !important;
+}
+#counter a:hover, #navigation a:hover{
+    color:#fff !important;
+}
+.tech-stack{
+    object-fit: contain;
+}
+.flexblock.features li img {
+    width: 60%;
+}
+.flexblock.features div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section h2, section p{
+    text-align: center ;
+}
